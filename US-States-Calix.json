@@ -6,7 +6,7 @@
 			"properties": {
 				"name": "Alabama",
 				"density": 94.65,
-				"region": "Southeast",
+				"Region": "Southeast",
 				"Fill Color": "#FFFFFF"
 			},
 			"geometry": {
