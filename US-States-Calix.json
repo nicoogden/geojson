@@ -1298,7 +1298,8 @@
 			"id": "04",
 			"properties": {
 				"name": "Arizona",
-				"density": 57.05
+				"density": 57.05,
+				"region": "Pacific"
 			},
 			"geometry": {
 				"type": "Polygon",
