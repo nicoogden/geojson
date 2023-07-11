@@ -7,8 +7,7 @@
 				"name": "Alabama",
 				"density": 94.65,
 				"region": "Southeast",
-				"LAD13CD": "E09000001",
-				"LAD13CDO": "00AA"
+				"Fill Color": "#FFFFFF"
 			},
 			"geometry": {
 				"type": "Polygon",
