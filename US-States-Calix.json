@@ -55,7 +55,7 @@
 			"properties": {
 				"name": "Alaska",
 				"density": 1.264,
-				"region": "Pacific	"
+				"region": "Pacific"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
