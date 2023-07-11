@@ -6,7 +6,9 @@
 			"properties": {
 				"name": "Alabama",
 				"density": 94.65,
-				"region": "Southeast"
+				"region": "Southeast",
+				"LAD13CD": "E09000001",
+				"LAD13CDO": "00AA"
 			},
 			"geometry": {
 				"type": "Polygon",
